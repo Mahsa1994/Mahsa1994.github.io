@@ -1,15 +1,23 @@
 ---
-title: About Alembic
+title: About Mahsa
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## Mahsa Hasheminejad
+  Artificial Intelligence Engineer
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "I am Mahsa Hasheminejad, an engineer with a strong focus on artificial intelligence, specifically in the field of computer vision. I obtained my BSc in computer science from the prestigious Amirkabir University of Technology.
+From 2017 to 2019, I had the opportunity to work as an ML engineer at Sensifai, a leading company in the field. During my time there, I was developing cutting-edge deep learning models for recognition purposes. I also worked on creating an identification system using face recognition methods to efficiently locate actors within digital archives.
+In 2019, I joined the team at Nojan Robotics and AI as an AI engineer, and I continue to contribute to their exciting projects to this day. At Nojan, I have been involved in developing intelligent machines capable of sorting various types of nuts and fruits. Leveraging computer vision and deep learning techniques, I have focused on enhancing the real-time sorting system's performance by reducing inference time using the TensorRT SDK. I have also been responsible for training, fine-tuning, and manipulating deep neural networks using PyTorch. Furthermore, I have played a crucial role in gathering, annotating, and processing visual datasets to train convolutional neural networks. Additionally, I have actively contributed to the sorter machines platform, utilizing C++ and Qt, while implementing user interfaces for the sorting machines using Figma and QML.
+My journey in the field of artificial intelligence has solidified my passion for computer vision, driving my research interests in this area. I am deeply committed to exploring and pushing the boundaries of computer vision technologies, aiming to create innovative solutions that make a positive impact in various industries.
+Feel free to explore my homepage to learn more about my projects, research, and contributions in the field of artificial intelligence and computer vision."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+I am Mahsa Hasheminejad, an engineer with a strong focus on artificial intelligence, specifically in the field of computer vision. I obtained my BSc in computer science from the prestigious Amirkabir University of Technology.
+From 2017 to 2019, I had the opportunity to work as an ML engineer at Sensifai, a leading company in the field. During my time there, I was developing cutting-edge deep learning models for recognition purposes. I also worked on creating an identification system using face recognition methods to efficiently locate actors within digital archives.
+In 2019, I joined the team at Nojan Robotics and AI as an AI engineer, and I continue to contribute to their exciting projects to this day. At Nojan, I have been involved in developing intelligent machines capable of sorting various types of nuts and fruits. Leveraging computer vision and deep learning techniques, I have focused on enhancing the real-time sorting system's performance by reducing inference time using the TensorRT SDK. I have also been responsible for training, fine-tuning, and manipulating deep neural networks using PyTorch. Furthermore, I have played a crucial role in gathering, annotating, and processing visual datasets to train convolutional neural networks. Additionally, I have actively contributed to the sorter machines platform, utilizing C++ and Qt, while implementing user interfaces for the sorting machines using Figma and QML.
+My journey in the field of artificial intelligence has solidified my passion for computer vision, driving my research interests in this area. I am deeply committed to exploring and pushing the boundaries of computer vision technologies, aiming to create innovative solutions that make a positive impact in various industries.
+Feel free to explore my homepage to learn more about my projects, research, and contributions in the field of artificial intelligence and computer vision.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="Github" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
 ## Features
 
