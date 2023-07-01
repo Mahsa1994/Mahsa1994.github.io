@@ -16,6 +16,7 @@ In 2019, I joined the team at Nojan Robotics and AI as an AI engineer, and I con
 I am deeply committed to exploring and pushing the boundaries of computer vision technologies, aiming to create innovative solutions that make a positive impact in various industries.
 
 {% include button.html text="Github" icon="github" link="https://github.com/Mahsa1994" color="#0366d6" %} {% include button.html text="Tweeter" icon="twitter" link="https://twitter.com/__Mah_Sa__" color="#0d94e7" %}
+
 [//]: # ({% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %})
 [//]: # ({% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %})
 
