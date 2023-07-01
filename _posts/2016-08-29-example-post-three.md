@@ -1,10 +1,18 @@
 ---
 title: Quantization in Pytorch
 categories:
-- Deep Learning
+- General
 excerpt: |
-  TO-BE-COMPLETED!
+  How to quantize a model in pytorch?
 feature_text: |
   ## Quantization in Pytorch
-  TO DO.
-Here, I'm going to write about how to quantize a pytorch model with TensorRT SDK.
+  How to quantize a model in pytorch?
+feature_image: "https://picsum.photos/2560/600?image=733"
+image: "https://picsum.photos/2560/600?image=733"
+---
+
+Quantization is a process to optimize your model in INT8 scale.
+
+We will discuss it here.
+
+To be continued...
