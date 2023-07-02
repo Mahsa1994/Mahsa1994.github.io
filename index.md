@@ -15,5 +15,7 @@ From 2017 to 2019, I had the opportunity to work as an ML engineer at Sensifai, 
 In 2019, I joined the team at Nojan Robotics and AI as an AI engineer, and I continue to contribute to their exciting projects to this day. At Nojan, I have been involved in developing intelligent machines capable of sorting various types of nuts and fruits. Additionally, I have actively contributed to the sorter machines platform, utilizing C++ and Qt, while implementing user interfaces for the sorting machines using Figma and QML.
 I am deeply committed to exploring and pushing the boundaries of computer vision technologies, aiming to create innovative solutions that make a positive impact in various industries.</medium>
 
+
+
 {% include button.html text="Github" icon="github" link="https://github.com/Mahsa1994" color="#0366d6" %} {% include button.html text="Tweeter" icon="twitter" link="https://twitter.com/__Mah_Sa__" color="#0d94e7" %}
 
