@@ -1,17 +1,13 @@
-[//]: # (---)
-
-[//]: # (title: Categories)
-
-[//]: # (layout: categories)
-
-[//]: # (excerpt: "Category index")
-
-[//]: # (aside: true)
-
-[//]: # (---)
 ---
-title: Contact info
+title: Categories
 layout: categories
 excerpt: "Category index"
 aside: true
 ---
+
+[//]: # (---)
+[//]: # (title: Categories)
+[//]: # (layout: categories)
+[//]: # (excerpt: "Category index")
+[//]: # (aside: true)
+[//]: # (---)

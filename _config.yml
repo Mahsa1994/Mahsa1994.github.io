@@ -97,7 +97,7 @@ lang: en-GB # Set the site language
 title: "Mahsa's Homepage" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/me.png" # Site logo, also used in jekyll-seo-tag
 description: "Self-introduction of Mahsa" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "" # https://alembic.darn.es Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/Mahsa1994"
 email: "ama.hasheminejad@gmail.com"
@@ -128,8 +128,8 @@ navigation_header:
 #  url: /elements/
 - title: Blog
   url: /blog/
-- title: Contact me
-  url: /categories/
+- title: Contact
+  url: /elements/
 #- title: Search
 #  url: /search/
 #- title: Fork Alembic
