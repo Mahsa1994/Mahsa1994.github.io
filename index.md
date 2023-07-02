@@ -14,5 +14,5 @@ I am deeply committed to exploring and pushing the boundaries of computer vision
 
 
 
-{% include button.html text="GitHub" icon="github" link="https://github.com/Mahsa1994" color="#2E2B2B" %} {% include button.html text="Tweeter" icon="twitter" link="https://twitter.com/__Mah_Sa__" color="#0d94e7" %}
+{% include button.html text="GitHub" icon="github" link="https://github.com/Mahsa1994" color="#2E2B2B" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/mahsahasheminejad/" color="#0072b1" %} {% include button.html text="Tweeter" icon="twitter" link="https://twitter.com/__Mah_Sa__" color="#0d94e7" %}
 
